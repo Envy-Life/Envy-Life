@@ -1,5 +1,7 @@
 Led and coded out a self-hostable indexer for Solana under a Superteam grant from Solana Foundation. [Twitter](https://twitter.com/Envy_Life_/status/1709309775085998411)
 
+Recieved a grant for publishing an IOS Flutter package that exposes similar functionality to Solana Wallet Adapter [IOS_Wallet_Connect](https://pub.dev/packages/ios_wallet_connect)
+
 Ex-Developer @[capx.fi](https://capx.fi)
 
 Worked on the Capx App mainly on backend and verifications [Capx App](https://app.capx.fi/explore)
