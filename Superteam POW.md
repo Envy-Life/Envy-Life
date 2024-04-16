@@ -2,9 +2,11 @@ Led and coded out a self-hostable indexer for Solana under a Superteam grant fro
 
 Recieved a grant for publishing an IOS Flutter package that exposes similar functionality to Solana Wallet Adapter [IOS_Wallet_Connect](https://pub.dev/packages/ios_wallet_connect)
 
+Worked on a Solana AMI (amazon machine image) for easier and faster rust build times and optmised caching
+
 Ex-Developer @[capx.fi](https://capx.fi)
 
-Worked on the Capx App mainly on backend and verifications [Capx App](https://app.capx.fi/explore)
+Worked on the Capx App especially on backend and verifications [Capx App](https://app.capx.fi/explore)
 
 Worked on a ZKP Biometric Authentication System for a client in collaboration with [Amit Dua](https://scholar.google.co.in/citations?user=_yrjAP4AAAAJ&hl=en). [Github](https://github.com/Envy-Life/Biometric-Authentication-ZKP)
 
