@@ -1,8 +1,12 @@
+Became an aws certified solutions architect [credly](https://www.credly.com/badges/fa1b102d-27ac-4875-bfdf-38033ac483f5/public_url)
+
+Handled infra for [Proto](https://www.proto-geo.xyz) which had over a terabyte of map data all over the world
+
+Worked on a Solana AMI (amazon machine image) for easier and faster rust build times and optmised caching
+
 Led and coded out a self-hostable indexer for Solana under a Superteam grant from Solana Foundation. [Twitter](https://twitter.com/Envy_Life_/status/1709309775085998411)
 
 Recieved a grant for publishing an IOS Flutter package that exposes similar functionality to Solana Wallet Adapter [IOS_Wallet_Connect](https://pub.dev/packages/ios_wallet_connect)
-
-Worked on a Solana AMI (amazon machine image) for easier and faster rust build times and optmised caching
 
 Ex-Developer @[capx.fi](https://capx.fi)
 
