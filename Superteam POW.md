@@ -1,3 +1,7 @@
+Member @ Superteam
+
+Lead Infra Engineer at [Spicenet](spicenet.io)
+
 Became an aws certified solutions architect [credly](https://www.credly.com/badges/fa1b102d-27ac-4875-bfdf-38033ac483f5/public_url)
 
 Handled infra for [Proto](https://www.proto-geo.xyz) which had over a terabyte of map data all over the world
